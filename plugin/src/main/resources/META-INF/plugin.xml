@@ -1,0 +1,9 @@
+<consulo-plugin url="https://github.com/consulo/consulo-wsl">
+    <id>consulo.wsl</id>
+    <name>WSL</name>
+    <version>SNAPSHOT</version>
+    <vendor>consulo.io</vendor>
+    <description>Deploy and run the Consulo remote agent in Windows Subsystem for Linux distributions.</description>
+    <depends optional="true">org.jetbrains.plugins.terminal</depends>
+    <tags><tag>tools</tag></tags>
+</consulo-plugin>

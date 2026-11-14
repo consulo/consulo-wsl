@@ -1,0 +1,4 @@
+The WSL distribution classes in src/main/java/consulo/wsl/distribution were
+ported from Consulo's platform WSL implementation, originally derived from
+IntelliJ IDEA. Their original JetBrains copyright notices are preserved.
+These files are licensed under the Apache License, Version 2.0.

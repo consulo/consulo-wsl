@@ -1,0 +1,5 @@
+<consulo-plugin-requires>
+    <plugins>
+        <plugin>org.jetbrains.plugins.terminal</plugin>
+    </plugins>
+</consulo-plugin-requires>
